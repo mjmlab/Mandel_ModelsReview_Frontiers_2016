@@ -1,6 +1,6 @@
 ---
-Title: A powerful model: Impact and influence of the natural *Vibrio*-squid symbiosis in understanding bacterial-animal interactions
-Date: \today
+Title: Impact and influence of the natural *Vibrio*-squid symbiosis in understanding bacterial-animal interactions  
+Date: \today  
 ...
 
 # Abstract
@@ -21,7 +21,7 @@ For Vibrio-squid
 - robust natural system -- all animals colonized in 3 hours; enables...
 - synchronous colonization. Has been key to understanding developmental processes (aggregation; 12 h signal; etc)
 
-1. Bacteria influence animal development
+### Bacteria influence animal development
 
 key paper: Montgomery & McFall-Ngai 1994 [@montgomery1994]
 
@@ -29,34 +29,34 @@ connection to other systems:
 - Laura Hooper tissue development [@hooper2001a]
 - many others...
 
-2. Microbial developmental biology is critical for productive interaction with animals
+### Microbial developmental biology is critical for productive interaction with animals
 
-### Flagellar development
+##### Flagellar development
 
 key paper: Ruby and Asato 1993 [@ruby1993]; mechanism (sort-of): [@brennan2013a, @brennan2013, @nikolakakis2016]
 
-### Aggregation and Biofilm Formation
+##### Aggregation and Biofilm Formation
 
 key paper: Nyholm et al. 2000 [@nyholm2000]; mechanism: [@visick2001, @yip2005, @yip2006]
 
-### Luminescence
+##### Luminescence
 
 key paper: Visick et al. 2000 [@visick2000a]; follow-up [@bose2008, @koch2013]
 
 (Include quorum sensing??? Should describe historical importance of V. fischeri, but note initial discovery was pre-squid model development??? Don't want to ignore here but it's a bit tangential. Maybe focus on role in the animal.)
 
-3. Molecular dialogue between host and bacteria ...
+### Molecular dialogue between host and bacteria ...
 
-### Bacterial signals to the host (e.g. peptidoglycan)
+##### Bacterial signals to the host (e.g. peptidoglycan)
 
 key paper: Koropatnick et al. 2004 [@koropatnick2004]
 
-### Host signals to the bacteria (e.g. nitric oxide, chitin)
+##### Host signals to the bacteria (e.g. nitric oxide, chitin)
 
 key papers: Davidson et al. 2004, Mandel et al. 2012 [@davidson2004, @mandel2012]; follow-up [@wang2010, @wang2010b, @altura2011]
 
 
-4. Small genetic changes can determine host colonization specificity
+### Small genetic changes can determine host colonization specificity
 
 key paper: Mandel et al. 2009 [@mandel2009]
 
@@ -65,7 +65,7 @@ in contrast to genomic islands; connection to other systems:
 - Xenorhabdus [@cowles2008]
 - I have lots of other references to add here :)
 
-5. Bacterial metabolism is adapted to host constraints
+### Bacterial metabolism is adapted to host constraints
 
 key paper: Dunn et al. 2010 [@dunn2010]; also [@wier2010, @schwartzman2014]
 
