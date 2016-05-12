@@ -7,14 +7,19 @@ Date: \today
 
 Animals are colonized by bacteria and in many cases partners have co-evolved to perform mutually beneficial functions. An exciting and ongoing legacy of the past decade has been an expansion of technology to enable study of natural associations *in situ* (*in vivo*). As a result more symbioses are being examined, and additional details are being revealed for well-studied systems. In this context we review literature from the *Vibrio fischeri*-*Euprymna scolopes* symbiosis with a focus on key studies that have had an impact on understanding bacteria-animal interactions broadly. This is not intended to be a comprehensive review of the system, but rather to focus on particular studies, discuss the key findings of the work, and to highlight connections with other symbiotic systems. Here we discuss how bacteria influence animal development; how microbial developmental biology regulates developmental transitions; the nature of molecular dialogue between bacteria and their animal hosts; how small genetic changes can have large effects on host colonization specificity; and how bacterial metabolism is constrained by the host environment and life cycle.
 
+# Main Text
 
-## What is a model organism?
+Rough outline of this introductory section:
+- Microbiome has gotten big! 1 paragraph on microbiomes in humans ("microbial organ"), animals, (and plants...but not focus here).
+- Introduce the V. fischeri-squid system.
+- Focus of this review is the processes by which the initial microbial population is selectively acquired, influences host biology, and is stably maintained. Focusing on a single influential model system, five key findings from the past 25 years are presented to demonstrate how they impacted the study system and our impact broadly of the relationships of bacteria and their animal hosts.
 
-What makes it valuable?
+### Isolating the colonization process in a natural model system
 
-What does it **model**?
+Animals born and then harvest symbionts from the environment
+- could discuss vertical/horizontal transmission.
 
-For Vibrio-squid
+**What makes a model valuable?** Why has the V. fischeri-squid model provided valuable insights over a long period?
 - reductionist
 - genetically-tractable bacterium
 - ability to study individual hosts, especially for imaging
@@ -58,12 +63,28 @@ key papers: Davidson et al. 2004, Mandel et al. 2012 [@davidson2004, @mandel2012
 
 ### Small genetic changes can determine host colonization specificity
 
-key paper: Mandel et al. 2009 [@mandel2009]
+**
+Suggested outline for each section:
+- 1-2 sentence summarizing the key result in the paper
+- detail paragraph(s) reviewing the paper
+- paragraph(s) describing connections to other systems
+- short paragraph describing how the work is/can be pursued in V. fischeri-squid to gain broader insights into host microbe associations.
+**
 
-in contrast to genomic islands; connection to other systems:
-- Salmonella Typhimurium / Typhi
-- Xenorhabdus [@cowles2008]
-- I have lots of other references to add here :)
+A 2009 study by Mandel et al. revealed that a single regulatory locus can be critical to enable an expansion of bacterial host range into a new animal host [@mandel2009].
+
+A comparative genomic study examined differences between two *V. fischeri* strains, the squid-colonizing strain ES114 and the fish isolate MJ11 [@mandel2009]. Most of the genomes were shared with protein-coding genes that were practically identical [XXX - fill in with numbers], but approximately 400 protein-coding genes were unique to one strain or the other. Analysis of these factors revealed that the squid biofilm regulator, RscS, was encoded in the squid symbiont but not in the fish symbiont. The known RscS target genes, *sypA, sypB, ..., sypR* were encoded in both genomes and fairly conserved (> XXX % amino acid conservation). It was known previously that mutants in strain ES114 that lacked RscS are unable to productively colonize the squid [@visick2001]. Therefore, the study asked whether the absence of the regulator was sufficient to explain the differential colonization phenotype. Introduction of RscS into strain MJ11 was sufficient to allow it to colonize the squid host. Phylogenetic analyses presented supported a model in which MJ11 was part of an ancestral group of *V. fischeri* that lacked *rscS*, and that this gene was acquired coincident with squid colonization of squid in the North Pacific Ocean (i.e., Japan and Hawaii).
+
+A single gene that was sufficient to shift the animal hosts available to a bacterium was extreme but consistent with reports that had been showing that small loci could regulate microbe-host specificity. Work in entomopathogenic nematodes had shown that symbiotic *Xenorhabdus nematophila* requires the three-gene *nilABC* locus for colonization, and that expression of these factors in a heterologous symbiont is sufficient to enable colonization of *Steinernema carpocapsae*, the worm host that otherwise is specific for *X. nematophila* [@cowles2008].
+[XXX Also describe Yersinia and Rhizobia here XXX. Probably say something in this paragraph about genomic islands and Salmonella Typhimurium / Typhi.]
+
+In the human gut microbiome there are examples in which single gene changes have been critical. XXX
+- B. fragilis PSA as specificity factor [@mazmanian2008]
+
+Horizontal gene transfer enables bacteria to gain new functions, and the V. fischeri work demonstrated the profound impact of acquisition of a single gene. A study in Japan has identified transfer of carbohydrate-degrading enzymes from seaweed to microbiota constituents [@hehemann2010].
+
+The work by Mandel et al. [@mandel2009] revealed a single regulatory gene that can alter host range. Questions in *V. fischeri* remain as to how this gene was able to hijack a regulatory pathway, and how the evolution of signal transduction pathways occurs as interactions between host and microbe evolve. [XXX needs some work]
+
 
 ### Bacterial metabolism is adapted to host constraints
 
