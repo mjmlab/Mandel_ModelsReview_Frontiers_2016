@@ -26,9 +26,6 @@ Animals born and then harvest symbionts from the environment
 - robust natural system -- all animals colonized in 3 hours; enables...
 - synchronous colonization. Has been key to understanding developmental processes (aggregation; 12 h signal; etc)
 
-
-
-
 ### Isolation of the molecular dialogue between host and symbiont
 
 A particularly dramatic example of a role for bacteria influencing a specific host developmental process was reported by Montgomery and McFall-Ngai [@montgomery1994], when they reported that in response to symbiotic colonization by *V. fischeri* the ciliated appendages of the *E. scolopes* light organ undergo regression during the subsequent five days. The bacterial peptidoglycan fragment, tracheal cytotoxin (TCT), which previously had been shown to induce apoptosis in ciliated epithelium upon release from *Bordetella pertusis*, was identified to perform a similar function in *V. fischeri*, but this time with a resulting beneficial outcome [@koropatnick2004]. The Lipid A portion of lipopolysaccharide (LPS) is required to recapitulate the apoptosis observed from intact *V. fischeri*. The cell death from these compounds, in conjunction with hemocyte trafficking that is also induced from TCT, results in the regression phentoype. <!-- NEED TO INCLUDE INFO ON LIGHT -->
@@ -54,38 +51,22 @@ TCT plays a key role in signaling to multiple host phenotypes, is sufficient to 
 - hypohalous acid
 - H2O2
 
+A key study revealing a role for NO in animal-microbe symbioses was published by Davidson, et al. (2004).  In this work the authors demonstrated that during the initiation of colonization in the squid-vibrio system, NO is produced in host tissue through the activity of nitric oxide synthase (NOS), and this activity was attenuated after successful colonization by V. fischeri.  
+
+Using staining and immunocytochemistry NOS and NO were found located in the epithelium of the light organ, as well as in vesicles within mucus shed from these cells.  It is within this mucus that the bacterial cells aggregate prior to entering the light organ.  Treatment of the animals with a NO scavenger allowed large aggregates of non-symbiotic vibrios to form, but these bacteria did not go on to colonize.   However, in the absence of a NO scavenger V. fischeri aggregated in the mucus, went on to colonize, and after colonization NOS activity and NO production were attenuated.  The results strongly suggested that NO acts as a specificity determinant, helping to limit aggregation of non-symbiotic vibrios and select for symbiotically competent V. fischeri from the mixed microbial population found in seawater.  Of course these results also suggested that V. fischeri would need to effectively sense and respond to the host-produced NO to successfully establish the partnership.  
+
+Since this initial report, progress has been made in determining how V. fischeri senses and responds to NO.  In 2010, Wang et al. described a role for the NO-detoxifying enzyme flavohenoglobin (Hmp) (poole and hughes, 2000; PMID 10844666) in the protection of V. fischeri from NO during host colonization.  Using genetic approaches it was demonstrated that a strain lacking hmp displayed a colonization deficiency.  Although it had been previously predicted using bioinformatic analyses (Rodionov, 2005; PMID 16261196), in this study expression of hmp was linked to the activity of a NO-responsive negative regulator NsrR ( Tucker, 2010; PMID20167493—ref about NsrR).  However, NsrR is not the only important NO-sensing regulator in V. fischeri.  H-NOX, a heme NO/oxygen-binding protein also plays a role in symbiotically relevant NO-responsive regulation of genes in V. fischeri (Wang 2010).  Although H-NOX-like proteins are widely distributed in bacteria, this was the first report describing bacterial H-NOX function.   Interestingly, it appears that one role for H-NOX in V. fischeri is to sense NO and correspondingly suppress bacterial hemin uptake during the early stages of host colonization.  The authors predicted that early repression of iron uptake would protect the cells from the potentially harmful effects of Fenton chemistry while exposed to host-generated oxidants.  This repression would then be relieved upon bacterial-influenced attenuation of oxidant production (Davidson 2004), and hemin uptake genes would be expressed to support growth in the iron-limited light organ environment (Graf and Ruby 2000).   A subsequent study demonstrated that the hemin uptake genes in V. fischeri are induced during the later stages of symbiotic colonization and deletion of these genes negatively impacted colonization (Septer 2011 PMID 21883801).   Together these results demonstrate that although the ability to sense and detoxify NO is important in terms of symbiotic specificity, NO also acts as a signal to modulate bacterial gene expression to promote successful colonization.  
+
+Paragraph about link to other systems and future work??
+NO = defense against pathogens, but parallels in symbiotic systems just a different outcome.  Hmp is important defense in pathogens, Plant-microbe systems (Damiani 2016; PMID 27092165) also NO important role.    Same language, different outcome.  Future work looking more globally at response = insight.
+
+
 **Host: PRRs**.
 - PGRP
 - LBP
 - Others...
 
 This work in *V. fischeri* was influenced by studies in invertebrate systems that demonstrated host development in response to symbiont colonization and vertebrates that showed general responses to consortia <!-- specific studied and general --> reviewed in [@montgomery1994]. Following up on this work to define specific compounds that influenced host development, studies in other systems began to look critically at the molecular interface between microbes and host. In 2001 it was shown in a mammalina system that in response to colonization by gut *Bacteroidetes* such as *Bacteroides thetaiotaomicron*, terminal tissue differentiation (e.g., fucosylation) is dependent on the presence of the symbiotic bacteria [@hooper2001a].  <!-- zebrafish? -->
-
-
-### Bacteria influence specific cellular changes in the host
-
-Studies on the system had defined a the morphology of the light organ and
-
-cell death and cell differentiation
-
-key paper: Montgomery & McFall-Ngai 1994 [@montgomery1994]. Also [@koch2013]
-
-- many others...
-
-##### Bacterial signals to the host (e.g. peptidoglycan)
-
-key paper: Koropatnick et al. 2004 [@koropatnick2004]
-
-
-##### Host signals to the bacteria (e.g. nitric oxide, chitin)
-
-key papers: Davidson et al. 2004, Mandel et al. 2012 [@davidson2004, @mandel2012]; follow-up [@wang2010, @wang2010b, @altura2011]
-
-
-
-
-
-
 
 ### Key roles for microbial developmental biology for productive animal colonization
 
@@ -103,19 +84,7 @@ key paper: Visick et al. 2000 [@visick2000a]; follow-up [@bose2008, @koch2013]
 
 (Include quorum sensing??? Should describe historical importance of V. fischeri, but note initial discovery was pre-squid model development??? Don't want to ignore here but it's a bit tangential. Maybe focus on role in the animal.)
 
-
-
-
-
 ### Genetic determination of host colonization specificity
-
-**
-Suggested outline for each section:
-- 1-2 sentence summarizing the key result in the paper
-- detail paragraph(s) reviewing the paper
-- paragraph(s) describing connections to other systems
-- short paragraph describing how the work is/can be pursued in V. fischeri-squid to gain broader insights into host microbe associations.
-**
 
 A 2009 study by Mandel et al. revealed that a single regulatory locus can be critical to enable an expansion of bacterial host range into a new animal host [@mandel2009].
 
