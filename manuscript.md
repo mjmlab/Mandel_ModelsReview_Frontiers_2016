@@ -14,7 +14,7 @@ Rough outline of this introductory section:
 - Introduce the V. fischeri-squid system.
 - Focus of this review is the processes by which the initial microbial population is selectively acquired, influences host biology, and is stably maintained. Focusing on a single influential model system, five key findings from the past 25 years are presented to demonstrate how they impacted the study system and our impact broadly of the relationships of bacteria and their animal hosts.
 
-### Isolating the colonization process in a natural model system
+## Isolating the colonization process in a natural model system
 
 Animals born and then harvest symbionts from the environment
 - could discuss vertical/horizontal transmission.
@@ -26,7 +26,7 @@ Animals born and then harvest symbionts from the environment
 - robust natural system -- all animals colonized in 3 hours; enables...
 - synchronous colonization. Has been key to understanding developmental processes (aggregation; 12 h signal; etc)
 
-### Isolation of the molecular dialogue between host and symbiont
+## Isolation of the molecular dialogue between host and symbiont
 
 A particularly dramatic example of a role for bacteria influencing a specific host developmental process was reported by Montgomery and McFall-Ngai [@montgomery1994], when they reported that in response to symbiotic colonization by *V. fischeri* the ciliated appendages of the *E. scolopes* light organ undergo regression during the subsequent five days. The bacterial peptidoglycan fragment, tracheal cytotoxin (TCT), which previously had been shown to induce apoptosis in ciliated epithelium upon release from *Bordetella pertusis*, was identified to perform a similar function in *V. fischeri*, but this time with a resulting beneficial outcome [@koropatnick2004]. The Lipid A portion of lipopolysaccharide (LPS) is required to recapitulate the apoptosis observed from intact *V. fischeri*. The cell death from these compounds, in conjunction with hemocyte trafficking that is also induced from TCT, results in the regression phentoype. <!-- NEED TO INCLUDE INFO ON LIGHT -->
 
@@ -105,9 +105,32 @@ The work by Mandel et al. [@mandel2009] revealed a single regulatory gene that c
 
 
 
-### Bacterial metabolism is adapted to host constraints
+## The symbiosis provides a useful framework for identifying gene function
 
-key paper: Dunn et al. 2010 [@dunn2010]; also [@wier2010, @schwartzman2014]
+Aox
+
+halovibrins
+
+(even BinK & RscS from global screens)
+
+Maybe there are better examples...
+
+key paper: Dunn et al. 2010 [@dunn2010]
+
+
+
+## The symbiosis as a focusing agent to identify relevant pathways in vivo
+
+Ideas:
+
+[@wier2010] just lists of genes until modeled >> focus on glycerol and chitin. Glycerol is important in juvenile but not adults. Chitin plays many important roles...
+
+Syp & cellulose biofilms. Both impressive in culture, both yield crystal violet phenotype, only Syp connected to host colonization.
+
+
+Old ideas...
+
+ also [@wier2010, @schwartzman2014]
 
 aerobic/anaerobic. Day/night.
 
