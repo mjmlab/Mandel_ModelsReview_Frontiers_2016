@@ -3,7 +3,7 @@ Title: Impact and influence of the natural *Vibrio*-squid symbiosis in understan
 Date: \today  
 ...
 
-# Abstract 
+# Abstract
 
 Animals are colonized by bacteria and in many cases partners have co-evolved to perform mutually beneficial functions. An exciting and ongoing legacy of the past decade has been an expansion of technology to enable study of natural associations *in situ* (*in vivo*). As a result more symbioses are being examined, and additional details are being revealed for well-studied systems. In this context we review literature from the *Vibrio fischeri*-*Euprymna scolopes* symbiosis with a focus on key studies that have had an impact on understanding bacteria-animal interactions broadly. This is not intended to be a comprehensive review of the system, but rather to focus on particular studies, discuss the key findings of the work, and to highlight connections with other symbiotic systems. Here we discuss how bacteria influence animal development; how microbial developmental biology regulates developmental transitions; the nature of molecular dialogue between bacteria and their animal hosts; how small genetic changes can have large effects on host colonization specificity; and how bacterial metabolism is constrained by the host environment and life cycle.
 
@@ -71,9 +71,37 @@ The value of further studies of NO in the squid-vibrio system lie not only in pr
 
 ## Swimming against the flow
 
-Flagellar development and chemotaxis
+The squid host sheds mucus from the light organ pore at the same time that *V. fischeri* aggregates in the mucus and then enters the pore. This situation presents a number of questions about bacterial transit in a dynamic mucociliary field, including how the bacteria balance adhesion and migration; what forces control bacterial aggregation in the host environment; how the bacteria travel against this flow to enter the host; and whether the same processes in the mucus field are required in the host ducts and crypts.
 
-key paper: Ruby and Asato 1993 [@ruby1993]; mechanism (sort-of): [@brennan2013a, @brennan2013, @nikolakakis2016]
+**How do colonizing bacteria travel against this powerful flow?** A key study identifying a role for flagellar motility was conducted over twenty years ago [@ruby1993]. In that work Ruby and Asato confirmed that planktonic *V. fischeri* was motile due to a polar tuft of sheathed flagellar. However, by 24 hours post inoculation most cells in the light organ crypts were non-flagellated. Upon expulsion of bacteria from the host, the bacteria develop in a manner that is independent of nutrient state as it occurs in rich medium or in natural seawater [@ruby1993]. Therefore the bacterial life cycle alternates between a motile planktonic lifestyle and a non-flagellated crypt-colonized state.
+
+Significant details have since been elucidated about the molecular mechanisms that control flagellar development in *V. fischeri*, which in turn has solidified the importance of swimming motility for squid colonization. Random transposon mutagenesis provided evidence that nonmotile mutants could not colonize [@graf1994], and reverse genetics revealed that mutants defective for flagellar motility or chemotaxis did not establish productive colonization with the squid host [@millikan2003, @millikan2004, @deloney-marino2012]. Together these studies established a model of a hierarchy of flagellar gene expression in *V. fischeri* controlled by the σ<sup>54</sup>-dependent regulator FlrA. There is evidence for regulation by quorum sensing and by magnesium, and other sensory inputs are likely [@oshea2005, @cao2012].
+
+<!-- Was CheR reverse genetics?? -->
+
+**Chitin oligosaccharides as host-generated chemoattractants.** Bacterial flagellar motility often occurs in a directed fashion in which rotation of the flagellar bundle results in net movement toward preferred nutrient sources. Given the above information that chemotaxis was required for colonization, it seemed likely that the bacteria were swimming toward a host compound. The first evidence for chitin oligosaccharides as the specific attractant was raised when addition of exogenous chitobiose, the *N*-acetylglucosamine dimer, blocked colonization. The monomer did not have such an effect [@mandel2012]. Given that *N*-acetylglucosamine is abundant on eukaryotic cell surfaces, yet chitin and its breakdown oligosaccharides are more specialized in their localization, it seemed possible that this could be a cue. Mutants defective for chemotaxis arrested at the outer face of the light organ pore, the same stage at which wild-type *V. fischeri* arrested in the presence of added chitin oligosaccharides [@mandel2012]. These results strongly suggested that a host source of chitin was a signal for the bacteria to enter the pore. Direct imaging revealed the presence of insoluble chitin bound to hemocytes within the host [@mandel2012, @heath-heckman2011], which may be released through the action of a host endochitinase [@kremer2013]. Together, this illustrates a specific colonization checkpoint that is regulated by both host and symbiont factors.
+
+**STILL NEED TO ADD STUFF HERE..........**
+
+We note that there is a migration step prior to pore entry, and interestingly this step does not require flagellar motility.
+
+..
+
+The early mutant studies have been bolstered by modern approaches. A large-scale forward genetic screen for mutants defective for swimming motility, along with transcriptomic analyses, identified new flagellar genes in *V. fischeri* and described both shared and divergent aspects of flagellar structure and regulation in *V. fischeri* and in other Vibrios [@brennan2013]. In addition to providing information directly about colonization, these tools have provided insight into the role of LPS during colonization and for the evolution and the generation of torque at the flagellar motor [@post2012, @beeby2016]. Recent work
+
+
+Outlook --
+
+Follow up work has revealed that flagellar rotation provides additional benefits beyond swimming... OMVs
+
+Mention briefly that they stick to the cilia in the mucus.
+
+
+; mechanism (sort-of): [@brennan2013a, @brennan2013, @nikolakakis2016]
+
+Brennan - additional role for flagella in generating OMVs and communicating with the host, suggesting an intriguing <!-- synonym for: plan together!! sounds like correlate!! --> between flagellar swimming and signaling between the symbiont and the host innate immune system.
+
+Satisfying answers to some of these questions are beginning to be addressed, including a role for cilia in modulating adhesion, and chemotaxis toward host-produced and host-cleaved chitin modulating a key developmental checkpoint. Still, important questions remain that suggest novel and interesting biology to be revealed through the symbiosis. Open questions include how bacteria transit through the mucus in a flagellar-independent manner; the molecular basis of chitin oligosaccharide sensing in the symbiont; and the processes that regulate the developmental switch between the aflagellate state in the host versus the swimming state in seawater.
 
 
 ## You talking to me?
@@ -135,4 +163,3 @@ make connections to diel/circadian biology
 ##### Aggregation and Biofilm Formation
 
 key paper: Nyholm et al. 2000 [@nyholm2000]; mechanism: [@visick2001, @yip2005, @yip2006]
-
