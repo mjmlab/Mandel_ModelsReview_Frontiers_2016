@@ -7,24 +7,15 @@ Date: \today
 
 Animals are colonized by bacteria and in many cases partners have co-evolved to perform mutually beneficial functions. An exciting and ongoing legacy of the past decade has been an expansion of technology to enable study of natural associations *in situ* (*in vivo*). As a result more symbioses are being examined, and additional details are being revealed for well-studied systems with a focus on the interactions between partners in the native context. With this framing, we review literature from the *Vibrio fischeri*-*Euprymna scolopes* symbiosis and focus on key studies that have had an impact on understanding bacteria-animal interactions broadly. This is not intended to be a comprehensive review of the system, but rather to focus on particular studies, discuss the key findings of the work, and to highlight connections with other symbiotic systems. Here we discuss how bacteria influence animal development; how microbial developmental biology regulates developmental transitions; the nature of molecular dialogue between bacteria and their animal hosts; how small genetic changes can have large effects on host colonization specificity; and how bacterial metabolism is constrained by the host environment and life cycle. Overall these studies demonstrate how functional approaches *in vivo* in a tractable system have provided valuable insight into general principles of microbe-host interactions.
 
-# Main Text
+# Introduction
 
-Rough outline of this introductory section:
-- Microbiome has gotten big! 1 paragraph on microbiomes in humans ("microbial organ"), animals, (and plants...but not focus here).
-- Introduce the V. fischeri-squid system.
-- Focus of this review is the processes by which the initial microbial population is selectively acquired, influences host biology, and is stably maintained. Focusing on a single influential model system, five key findings from the past 25 years are presented to demonstrate how they impacted the study system and our impact broadly of the relationships of bacteria and their animal hosts.
+Studies of human, animal, and plant microbiomes have been enabled by novel culture-independent approaches and technological advancements in DNA sequencing. In recent years a prominent role for microbial communities in the gut, skin, and other organs in human health has emerged. These studies followed from influential animal studies in systems that continue to yield valuable insight into microbiome assembly, stability, communication, and evolution. The focus of this review is to examine one model system and to examine how key findings in that system have enabled an increasingly higher resolution of the processes and principles that undelie microbe-host communication.
 
-## Isolating the colonization process in a natural model system
+When Hawaiian bobtail squid hatch from their eggs, they are exposed to millions of microbes in each milliliter of seawater. Although *V. fischeri* make up less than 1 in 5,000 of these planktonic, environmental bacteria, the "light organ" of the hatchling squid becomes colonized exclusively with *V. fischeri*. This incredible specificity relies on a series of reciprocal communications between microbe and host, many of which are detailed in the sections below. Over the course of 48 h the bacteria establish a mature colonization in the squid crypts and, at high cell density, produce light as a result of quorum-sensing. The bacterial bioluminescence is reflected by host tissue to camouflage the shadow or silhouette that the noctural-foraging squid would case in the moonlight, thus protecting the host in a process termed counterillumination. The colonization procedure occurs only in hatchling squid, seeding an individual host's crypts for its lifetime. The bacteria produce light at night, and at dawn approximately 90-95% of the symbiotic population is expelled into the seawater. The remaining cells grow up during the day, produce light at night, and the diel cycle proceeds. Host cellular changes accompany this cycle, for example with a daily reshaping of the epithelial brush border against which the bacteria reside during the final two hours prior to the daily expulsion/venting [@wier2010].
 
-Animals born and then harvest symbionts from the environment
-- could discuss vertical/horizontal transmission.
+As an environmentally-transmitted symbiosis, the *Vibrio*-squid model has a number of valuable characteristics that have served it well as a study system for identifying molecular mechanisms. First, the binary system has only two partners and is therefore naturally reduced. Second, both partners can be raised separately and then introduced for experimentation. Third, *V. fischeri* is genetically tractable, and both unbiased mutagenesis approaches as well as precise genetic alterations can be introduced with relative ease. Fourth, the bacteria colonize the host light organ directly under the semi-transparent mantle and funnel; dissection of these tissues in anesthetized animals permits imaging of the site of infection and direct analysis of bacterial behaviors and host responses. Fifth, synchronous colonization of hatchling has permitted developmental staging of the colonization process. For most of the processes described below, many of these benefits were important to making the advance. In the sections below, we highlight key discoveries in the system over the past three decades with a specific focus on how this model system has revealed processes that are important broadly in bacterial colonization.
 
-**What makes a model valuable?** Why has the *V. fischeri*-squid model provided valuable insights over a long period?
-- reductionist
-- genetically-tractable bacterium
-- ability to study individual hosts, especially for imaging
-- robust natural system -- all animals colonized in 3 hours; enables...
-- synchronous colonization. Has been key to understanding developmental processes (aggregation; 12 h signal; etc)
+# From pattern to process in the *Vibrio*-squid system
 
 ## Shedding the cell wall to say "I'm here"
 
@@ -106,6 +97,9 @@ Satisfying answers to some of these questions are beginning to be addressed, inc
 
 ## You talking to me?
 
+>We were going to have a separate section below on biofilm. Perhaps we should unify it in here. I'll think about the best way to do that. Or could still have a separate section. I'll think about it quickly! Maybe a **We gotta stick together** section? key paper: Nyholm et al. 2000 [@nyholm2000]; mechanism: [@visick2001, @yip2005, @yip2006]
+
+
 A 2009 study by Mandel et al. revealed that a single regulatory locus can be critical to enable an expansion of bacterial host range into a new animal host [@mandel2009].
 
 A comparative genomic study examined differences between two *V. fischeri* strains, the squid-colonizing strain ES114 and the fish isolate MJ11 [@mandel2009]. Most of the genomes were shared with protein-coding genes that were practically identical [XXX - fill in with numbers], but approximately 400 protein-coding genes were unique to one strain or the other. Analysis of these factors revealed that the squid biofilm regulator, RscS, was encoded in the squid symbiont but not in the fish symbiont. The known RscS target genes, *sypA, sypB, ..., sypR* were encoded in both genomes and fairly conserved (> XXX % amino acid conservation). It was known previously that mutants in strain ES114 that lacked RscS are unable to productively colonize the squid [@visick2001]. Therefore, the study asked whether the absence of the regulator was sufficient to explain the differential colonization phenotype. Introduction of RscS into strain MJ11 was sufficient to allow it to colonize the squid host. Phylogenetic analyses presented supported a model in which MJ11 was part of an ancestral group of *V. fischeri* that lacked *rscS*, and that this gene was acquired coincident with squid colonization of squid in the North Pacific Ocean (i.e., Japan and Hawaii).
@@ -165,7 +159,6 @@ aerobic/anaerobic. Day/night.
 make connections to diel/circadian biology
 
 
+## Conclusions
 
-##### Aggregation and Biofilm Formation
-
-key paper: Nyholm et al. 2000 [@nyholm2000]; mechanism: [@visick2001, @yip2005, @yip2006]
+The *Vibrio*-squid system has proven to be a useful system for identifying principles of microbe-host interaction, is continuing to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of colonization identification to discerning the molecular communication between microbe and host and underlying those patterns.
