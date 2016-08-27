@@ -21,8 +21,6 @@ In each section below, we highlight key discoveries in the *Vibrio*-squid symbio
 
 ## Giving up some of myself to let you know I'm here
 
->Adele: One and only
-
 *E. scolopes* squid provide a particularly dramatic example of a role for bacteria influencing a specific host developmental process. Development of the host tissue proceeds on different trajectories depending on whether the specific symbiont *V. fischeri* is present; only once the symbiont has colonized, the ciliated appendages of the host light organ undergo apoptosis regression during the subsequent five days [@mcfall-ngai1991, @montgomery1994]. The bacterial peptidoglycan fragment, tracheal cytotoxin (TCT), which previously had been shown to induce a damaging apoptosis in ciliated epithelia upon release from *Bordetella pertusis*, was identified to perform a similar function in *V. fischeri*, but this time with a resulting beneficial outcome [@koropatnick2004]. The Lipid A portion of lipopolysaccharide (LPS) is required in conjuction with TCT to recapitulate the apoptosis phenotype observed when intact *V. fischeri* are presented to the host. The cell death from these compounds, in conjunction with hemocyte trafficking that is also induced from TCT, results in the regression phenotype.
 
 Once the bacteria announce their arrival, how does the host speak back? In addition to apoptosis and regression of the appendages that recruit the bacteria there are additional mechanisms by which the host receives and likely modulates the bacterial signal. Host nitric oxide production, described in more detail below, is diminished as a result of bacterial signaling (synergistically with LPS) [@altura2011]. The host produces a peptidoglycan recognition protein, EsPGRP2, which is secreted into the crypts containing bacteria, and that has the ability to degrade TCT [@troll2010]. Additionally, there are data to suggest that host alkaline phosphatase, EsAP, modifies Lipid A after the initial signaling [@rader2012]. In each case the host response is to diminish the effect of the bacterial products, but only after they have exerted their influence on host development.
@@ -31,8 +29,6 @@ This work in *V. fischeri* was influenced by studies in invertebrate systems tha
 
 
 ## Light up my life
-
->Adele: One and only
 
 An important aspect to mutualistic symbioses is the selection of appropriate and cooperative partners.  In theory, these relationships could be exploited by partners that are less cooperative (i.e. "cheaters") (Ghoul, 2014; PMID 24131102).  For example, in both the rhizobium-leguminous plant (Kiers, 2003; PMID 12955144) and squid-vibrio symbioses the microbial partners provide costly services to their hosts (nitrogen fixation and light production respectively).  However, it is rare to find bacterial symbionts associated with the hosts that do not provide these services ("cheaters").   The squid-vibrio mutualism provides an excellent model system for studying cooperative partner selection, and studies to date indicate that bacterial light production is required for bacterial cells to persist in the light organ.  
 
