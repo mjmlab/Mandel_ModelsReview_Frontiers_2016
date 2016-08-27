@@ -139,6 +139,6 @@ make connections to diel/circadian biology
 
 ## Conclusions
 
-The *Vibrio*-squid system has proven to be a useful system for identifying principles of microbe-host interaction, is continuing to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of colonization identification to discerning the molecular communication between microbe and host and underlying those patterns.
+The *Vibrio*-squid system has proven to be a useful system for identifying principles of microbe-host interaction, is continuing to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of colonization identification to discerning the molecular communication between microbe and host and underlying those patterns. In our modern era when sequencing data is abundant, it becomes critical to focus questions on important organismal processes and phenotypes. In this manner, the *Vibrio*-squid system provides a long-standing, useful example for how to move from fascinating observations to molecular understanding of the processes by which very different organisms communicate and establish a productive partnership.
 
-The early work in squid noted that "in nature, organisms often develop normally only in the presence of associated microorganisms," [@mcfall-ngai1991] a key insight that has contributed to the value of the squid system as a model for associations across the phylogenetic tree.
+Early work in this model system noted that "in nature, organisms often develop normally only in the presence of associated microorganisms," [@mcfall-ngai1991] a key insight that has contributed to the value of a focused model for associations across diverse metazoan hosts.
