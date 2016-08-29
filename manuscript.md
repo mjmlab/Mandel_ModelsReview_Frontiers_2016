@@ -1,7 +1,21 @@
 ---
 Title: Impact and influence of the natural *Vibrio*-squid symbiosis in understanding bacterial-animal interactions  
 Date: \today  
+Authors:
+  - Mark J. Mandel
+    - m-mandel@northwestern.edu
+    - Northwestern University Feinberg School of Medicine, Department of Microbiology-Immunology, 320 E Superior St, Chicago, IL 60611, USA
+  - Anne K. Dunn
+    - akdunn@ou.edu
+    - University of Oklahoma, Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman, OK 73019, USA
+Running Title: *Vibrio*-squid symbiosis as a model for beneficial bacterial colonization
+Keywords: symbiosis, microbiome, invertebrate model, marine microbiology, epithelial colonization, evolution  
 ...
+
+#### Correspondence to:
+
+Mark J. Mandel  
+m-mandel@northwestern.edu
 
 # Abstract
 
@@ -45,7 +59,7 @@ These studies bring up interesting questions about how the animal senses the lig
 
 ## NO way in
 
-There is a long history of the study of NO in eukaryotes, and this small diffusible molecule has been implicated in many different cellular processes including signaling and innate immunity [@fang2004]. Although the roles for NO in eukaryotic physiology and defense against pathogens was discovered many years ago, through the study of the squid-vibrio and other symbioses [@damiani2016] it has become apparent that NO also influences the establishment and maintenance of mutualistic host-microbe relationships as both a signal and a specificity determinant (Wang and Ruby 2010; 21338463) **THIS PMID REFERS TO A 2011 REVIEW, WHICH ONE DID YOU WANT?**. SORRY, IT IS THE 2011 REVIEW, PMID IS CORRECT
+There is a long history of the study of NO in eukaryotes, and this small diffusible molecule has been implicated in many different cellular processes including signaling and innate immunity [@fang2004]. Although the roles for NO in eukaryotic physiology and defense against pathogens was discovered many years ago, through the study of the squid-vibrio and other symbioses [@damiani2016] it has become apparent that NO also influences the establishment and maintenance of mutualistic host-microbe relationships as both a signal and a specificity determinant [@wang2011].
 
 A key study revealing a role for NO in animal-microbe symbioses was published by Davidson, et al. [@davidson2004]. In this work the authors demonstrated that during the initiation of colonization in the squid-vibrio system, NO is produced in host tissue through the activity of nitric oxide synthase (NOS), and this activity was attenuated after successful colonization by *V. fischeri*. Using staining and immunocytochemistry NOS and NO were found located in the epithelium of the light organ, as well as in vesicles within mucus shed from these cells. It is within this mucus that the bacterial cells aggregate prior to entering the light organ. Treatment of the animals with a NO scavenger allowed large aggregates of non-symbiotic vibrios to form, but these bacteria did not go on to colonize. However, in the absence of a NO scavenger *V. fischeri* aggregated in the mucus, went on to colonize, and after colonization NOS activity and NO production were attenuated. The results strongly suggested that NO acts as a specificity determinant, helping to limit aggregation of non-symbiotic vibrios and select for symbiotically competent *V. fischeri* from the mixed microbial population found in seawater. Of course these results also suggested that *V. fischeri* would need to effectively sense and respond to the host-produced NO to successfully establish the partnership.
 
@@ -98,3 +112,7 @@ In the case of both AOX and BinK, the depth of the *V. fischeri*-squid system ha
 The *Vibrio*-squid system has proven to be a useful system for identifying principles of microbe-host interaction, is continuing to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of colonization identification to discerning the molecular communication between microbe and host and underlying those patterns. In our modern era when sequencing data is abundant, it becomes critical to focus questions on important organismal processes and phenotypes. In this manner, the *Vibrio*-squid system provides a long-standing, useful example for how to move from fascinating observations to molecular understanding of the processes by which very different organisms communicate and establish a productive partnership.
 
 Early work in this model system noted that "in nature, organisms often develop normally only in the presence of associated microorganisms," [@mcfall-ngai1991] a key insight that has contributed to the value of a focused model for associations across diverse metazoan hosts.
+
+## Funding Statement
+
+Resarch in the authors' laboratories in supported by National Science Foundation awards IOS-1456963 (MJM) and **XXXXXX** (AKD), and National Institutes of Health Awards R35GM119627 (MJM) and R21AI117262 (MJM). The content is solely the responsibility of the authors and does not necessarily represent the official views of the funding agencies.
