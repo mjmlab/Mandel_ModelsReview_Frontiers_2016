@@ -111,10 +111,18 @@ In the case of both AOX and BinK, the depth of the *V. fischeri*-squid system ha
 
 The *Vibrio*-squid system has proven to be a valuable study system for identifying principles of microbe-host interaction, continues to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of intriguing phenotypes to discerning the molecular communication between microbe and host that is responsible for those patterns. By integrating approaches in genetics, genomics, molecular biology, imaging, physiology, evolutionary biology, and cell biology, each of the topic areas highlights an integrated and mechanistic view of how symbiotic partners functionally communicate in a model microbiome. In this manner, the *Vibrio*-squid system provides a durable example for how to move from fascinating observations to molecular understanding of the processes by which very different organisms communicate and establish a productive partnership.
 
+## Conflict of Interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+## Author Contributions
+
+MJM and AKD wrote the manuscript.
+
+## Funding
+
+Resarch in the authors' laboratories in supported by National Science Foundation awards IOS-1456963 (MJM) and MCB-1050687 (AKD), and National Institutes of Health Awards R35GM119627 (MJM) and R21AI117262 (MJM). The content is solely the responsibility of the authors and does not necessarily represent the official views of the funding agencies.
+
 ## Acknowledgments
 
 We thank Ella Rotman and Denise Tarnowski for comments on the manuscript.
-
-## Funding Statement
-
-Resarch in the authors' laboratories in supported by National Science Foundation awards IOS-1456963 (MJM) and MCB-1050687 (AKD), and National Institutes of Health Awards R35GM119627 (MJM) and R21AI117262 (MJM). The content is solely the responsibility of the authors and does not necessarily represent the official views of the funding agencies.
