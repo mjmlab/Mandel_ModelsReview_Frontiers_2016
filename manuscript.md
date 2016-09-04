@@ -1,25 +1,19 @@
 ---
-Title: Impact and influence of the natural *Vibrio*-squid symbiosis in understanding bacterial-animal interactions  
-Date: \today  
-Authors:
-  - Mark J. Mandel
-    - Email: m-mandel@northwestern.edu
-    - Address: Northwestern University Feinberg School of Medicine, Department of Microbiology-Immunology, 320 E Superior St, Chicago, IL 60611, USA
-  - Anne K. Dunn
-    - Email: akdunn@ou.edu
-    - Address: University of Oklahoma, Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman, OK 73019, USA
-Running Title: *Vibrio*-squid symbiosis as a model for beneficial bacterial colonization
-Keywords: symbiosis, microbiome, invertebrate model, marine microbiology, epithelial colonization, evolution  
+title: 'Impact and influence of the natural *Vibrio*-squid symbiosis in understanding bacterial-animal interactions'  
+date: \today  
+author:
+- name: Mark J. Mandel
+  affiliation: Northwestern University Feinberg School of Medicine, Department of Microbiology-Immunology, 320 E Superior St, Chicago, IL 60611, USA
+  email: m-mandel@northwestern.edu
+- name: Anne K. Dunn
+  affiliation: University of Oklahoma, Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman, OK 73019, USA
+  email: akdunn@ou.edu
+correspondence to: Mark J. Mandel, m-mandel@northwestern.edu
+running title: '*Vibrio*-squid symbiosis as a model for beneficial bacterial colonization'
+keywords: [symbiosis, microbiome, invertebrate model, marine microbiology, epithelial colonization, evolution]
+abstract: Animals are colonized by bacteria, and in many cases partners have co-evolved to perform mutually beneficial functions. An exciting and ongoing legacy of the past decade has been an expansion of technology to enable study of natural associations *in situ*/*in vivo*. As a result more symbioses are being examined, and additional details are being revealed for well-studied systems with a focus on the interactions between partners in the native context. With this framing, we review recent literature from the *Vibrio fischeri*-*Euprymna scolopes* symbiosis and focus on key studies that have had an impact on understanding bacteria-animal interactions broadly. This is not intended to be a comprehensive review of the system, but rather to focus on particular studies that have excelled at moving from pattern to process in facilitating an understanding of the molecular basis to intriguing observations in the field. In this review we discuss the following topics: processes regulating strain and species specificity; bacterial signaling to host morphogenesis; multiple roles for nitric oxide; flagellar motility and chemotaxis; and efforts to understand unannotated and poorly annotated genes. Overall these studies demonstrate how functional approaches *in vivo* in a tractable system have provided valuable insight into general principles of microbe-host interactions.
 ...
 
-#### Correspondence to:
-
-Mark J. Mandel  
-m-mandel@northwestern.edu
-
-# Abstract
-
-Animals are colonized by bacteria, and in many cases partners have co-evolved to perform mutually beneficial functions. An exciting and ongoing legacy of the past decade has been an expansion of technology to enable study of natural associations *in situ*/*in vivo*. As a result more symbioses are being examined, and additional details are being revealed for well-studied systems with a focus on the interactions between partners in the native context. With this framing, we review recent literature from the *Vibrio fischeri*-*Euprymna scolopes* symbiosis and focus on key studies that have had an impact on understanding bacteria-animal interactions broadly. This is not intended to be a comprehensive review of the system, but rather to focus on particular studies that have excelled at moving from pattern to process in facilitating an understanding of the molecular basis to intriguing observations in the field. In this review we discuss the following topics: processes regulating strain and species specificity; bacterial signaling to host morphogenesis; multiple roles for nitric oxide; flagellar motility and chemotaxis; and efforts to understand unannotated and poorly annotated genes. Overall these studies demonstrate how functional approaches *in vivo* in a tractable system have provided valuable insight into general principles of microbe-host interactions.
 
 # Introduction
 
