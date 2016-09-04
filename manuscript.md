@@ -5,10 +5,9 @@ author:
 - name: Mark J. Mandel
   affiliation: Northwestern University Feinberg School of Medicine, Department of Microbiology-Immunology, 320 E Superior St, Chicago, IL 60611, USA
   email: m-mandel@northwestern.edu
-- name: Anne K. Dunn
-  affiliation: University of Oklahoma, Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman, OK 73019, USA
-  email: akdunn@ou.edu
-correspondence to: Mark J. Mandel, m-mandel@northwestern.edu
+- name: Anne K. Dunn  
+  affiliation: University of Oklahoma, Department of Microbiology and Plant Biology, 770 Van Vleet Oval, Norman, OK 73019, USA  
+  email: akdunn@ou.edu  
 running title: '*Vibrio*-squid symbiosis as a model for beneficial bacterial colonization'
 keywords: [symbiosis, microbiome, invertebrate model, marine microbiology, epithelial colonization, evolution]
 ...
