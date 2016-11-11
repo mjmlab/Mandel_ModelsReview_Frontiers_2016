@@ -17,7 +17,7 @@ keywords: 'symbiosis, microbiome, invertebrate model, marine microbiology, epith
 
 # Correspondence to:
 
-Mark J. Mandel  
+Mark J. Mandel
 m-mandel@northwestern.edu
 
 # Abstract
@@ -113,6 +113,10 @@ In the case of both AOX and BinK, the depth of the *V. fischeri*-squid system ha
 ## Conclusions
 
 The *Vibrio*-squid system has proven to be a valuable study system for identifying principles of microbe-host interactions, continues to serve as a fertile field for discovery, and provides a useful road map for moving from patterns of intriguing phenotypes to discerning the molecular communication between microbe and host that is responsible for those patterns. By integrating approaches in genetics, genomics, molecular biology, imaging, physiology, evolutionary biology, and cell biology, each of the topic areas highlights an integrated and mechanistic view of how symbiotic partners functionally communicate in a model microbiome. In this manner, the *Vibrio*-squid system provides a durable example for how to move from fascinating observations to molecular understanding of the processes by which very different organisms communicate and establish a productive partnership.
+
+## Figure Legend
+
+**Figure 1.** (A) Juvenile *Euprymna scolopes* hatchling, ventral view. White box highlights the ink sac and the light organ. (B) Confocal micrograph of the bilaterally symmetric light organ. Host tissue is counterstained in red and the colonizing bacteria are visible in green. Arrowheads point to the three pores on each side of the organ, into which *V. fischeri* swim into the internal anatomy (ducts, antechamber, bottleneck, and crypts) of the organ. White box highlights one half of the organ, which is shown in cartoon view in the next panel. (C) Current state of knowledge about the temporal and spatial action of key processes discussed in this review, including Syp biofilm formation and aggregation (red), host nitric oxide production (yellow), bacterial motility and chemotaxis toward host chitin oligosaccharides (orange), symbiont TCT release (green), and luminescence (blue). Panels A and B are adapted from [@mandel2012] Figure 3.
 
 ## Conflict of Interest
 
