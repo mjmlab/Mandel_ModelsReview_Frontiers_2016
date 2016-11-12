@@ -14,7 +14,7 @@
 all: manuscript.docx manuscript.pdf
 
 manuscript.docx:
-	pandoc --latex-engine=xelatex --variable mainfont='Times New Roman' --variable fontsize=12pt --smart --standalone -H pandoc_files/format.sty  --bibliography ~/Documents/bibliography/library.bib --csl=pandoc_files/frontiers.csl manuscript.md -o builds/manuscript.docx
+	pandoc --latex-engine=xelatex --variable mainfont='Times New Roman' --variable fontsize=12pt --smart --standalone -H pandoc_files/format.sty  --bibliography ~/Documents/bibliography/library.bib --csl=pandoc_files/frontiers.csl manuscript.md -o builds/raw_manuscript.docx
 
 manuscript.pdf:
-	pandoc --latex-engine=xelatex --variable mainfont='Times New Roman' --variable fontsize=12pt --smart --standalone -H pandoc_files/format.sty  --bibliography ~/Documents/bibliography/library.bib --csl=pandoc_files/frontiers.csl manuscript.md -o builds/manuscript.pdf
+	pandoc --latex-engine=xelatex --variable mainfont='Times New Roman' --variable fontsize=12pt --smart --standalone -H pandoc_files/format.sty  --bibliography ~/Documents/bibliography/library.bib --csl=pandoc_files/frontiers.csl manuscript.md -o builds/raw_manuscript.pdf
